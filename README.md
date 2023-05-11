@@ -3,4 +3,7 @@ hello fsmvu
 
 Attendance: 
 
-- Mecit 
+- Mecit
+- Zain
+
+
